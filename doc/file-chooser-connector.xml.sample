@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(file-chooser:greet) -->
+    <file-chooser:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(file-chooser:greet) -->
